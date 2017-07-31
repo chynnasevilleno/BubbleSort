@@ -1,7 +1,4 @@
 #Python implementation of Bubble Sort
-#Chynna S. Sevilleno
-#BSIT-3B
-#Ateneo de Davao University
 
 #!/usr/bin/python
 def bubbleSort(list):
