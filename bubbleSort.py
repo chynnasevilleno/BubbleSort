@@ -1,6 +1,6 @@
+#!/usr/bin/python
 #Python implementation of Bubble Sort
 
-#!/usr/bin/python
 def bubbleSort(list):
         print("Unsorted list: ",list)
         for x in range(len(list)-1): #range 0 to length of array (10)-1 = range(9)
